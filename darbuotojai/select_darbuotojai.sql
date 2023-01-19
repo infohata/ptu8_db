@@ -1,2 +1,3 @@
 -- SQLite
 SELECT from DARBUOTOJAI;
+
