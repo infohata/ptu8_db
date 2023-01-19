@@ -22,3 +22,5 @@
 --     HAVING kiekis > 1;
 -- SELECT first_name || " " || last_name as vardas 
 --     FROM person ORDER BY last_name;
+
+SELECT * FROM person;
