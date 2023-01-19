@@ -1,4 +1,4 @@
--- SELECT * FROM person;
+--  SELECT * FROM person;
 -- SELECT first_name, last_name FROM person;
 -- SELECT gender FROM person;
 -- SELECT DISTINCT gender FROM person;
